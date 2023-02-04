@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’moluwa Oguntunde
+- 👋 Hi, My name is Foluwa Oguntunde
 - 👀 I’m interested in learning Software Development
 - 🌱 I’m currently learning HTML/CSS/JavaScript/Python
 - 💞️ I’m looking to collaborate on Website development
